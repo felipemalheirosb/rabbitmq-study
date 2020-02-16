@@ -1,0 +1,6 @@
+br\conductor\modelo\Plugin.class
+br\conductor\controller\RabbitMQWebController.class
+br\conductor\SpringBootRabbitApp.class
+br\conductor\conector\RabbitMQService.class
+br\conductor\service\RabbitMQSender.class
+br\conductor\config\RabbitMQConfig.class
